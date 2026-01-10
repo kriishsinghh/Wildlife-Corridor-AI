@@ -1,4 +1,7 @@
 AI-Enhanced Wildlife Corridor Identification & Movement Prediction
+
+The project was made with the help of AI bots and Synthetic Data is used.
+
 📌 Project Overview
 This project leverages advanced Machine Learning and Graph Theory to protect biodiversity. By analyzing environmental resistance and GPS telemetry, the system identifies "Least-Cost Paths" for wildlife and predicts future movement to mitigate human-wildlife conflict.
 
